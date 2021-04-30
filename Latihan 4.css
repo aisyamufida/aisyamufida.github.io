@@ -1,0 +1,19 @@
+<style>
+	h1 {margin: 25px 50px 25px 50px;}
+	p  {margin: 25px 50px 25px 50px;}
+	h1 {text-decoration: underline;}
+	h1 {background-colour: white;text-align: center;}
+	h1 {font-family: Lucida Handwriting, serif;}
+	h1 {color: HotPink;}
+	h1 {text-shadow: 2px 2px;}
+	img {border-radius: 20px;}
+	img {margin-left: 50px;}
+	body {background-color: violet;}
+	th {background-color: brown;}
+	th {font-family: Lucida Handwriting, serif;}
+	td{background-color: white;}
+	table {margin: 25px 50px 25px 50px;}
+	table {border-radius: 10px;}
+	p {font-family: Lucida Handwriting, serif;}
+	p {color: DeepPink;}
+</style>
